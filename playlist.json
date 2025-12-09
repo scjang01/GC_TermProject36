@@ -1,0 +1,38 @@
+{
+    "joy": [
+        "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+        "https://www.youtube.com/watch?v=eny0BqmSwmM",
+        "https://www.youtube.com/watch?v=CgCVZdcKcqY"
+    ],
+    "sadness": [
+        "https://www.youtube.com/watch?v=A-EcTULDu8Q",
+        "https://www.youtube.com/watch?v=qE35JN1ogeI",
+        "https://www.youtube.com/watch?v=0Tbi3mTVTSU"
+    ],
+    "anger": [
+        "https://www.youtube.com/watch?v=5cnjdPHDZ0k",
+        "https://www.youtube.com/watch?v=tiKFuzpX-NA",
+        "https://www.youtube.com/watch?v=71hZutqP_cM"
+    ],
+    "surprise": [
+        "https://www.youtube.com/watch?v=a7fzkqLozwA",
+        "https://www.youtube.com/watch?v=imGaOIm5HOk",
+        "https://www.youtube.com/watch?v=qYYJqWsBb1U"
+    ],
+    "fear": [
+        "https://www.youtube.com/watch?v=OtSlNDxcRgw",
+        "https://www.youtube.com/watch?v=CTpbD4Y0IFU",
+        "https://www.youtube.com/watch?v=SLL1LS8nkvY"
+    ],
+    "disgust": [
+        "https://www.youtube.com/watch?v=IJ4ZCilvk6w",
+        "https://www.youtube.com/watch?v=uPD0QOGTmMI",
+        "https://www.youtube.com/watch?v=OaNKSviZ9ME"
+    ],
+    "neutral": [
+         "https://www.youtube.com/watch?v=azwuX-nK-Cw",
+        "https://www.youtube.com/watch?v=klh7I70h3vg",
+        "https://www.youtube.com/watch?v=PrqwxkBB0DA"
+
+    ]
+}
