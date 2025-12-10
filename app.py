@@ -102,13 +102,7 @@ def create_interface():
             ["I feel so sad and lonely. I need some comfort and peaceful music."],
             ["The movie was terrifying but exciting. My heart is still beating fast!"],
         ],
-        theme=gr.themes.Soft(),
-        css="""
-        .gradio-container {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        """,
-        allow_flagging="never"
+        flagging_mode="never"
     )
     
     return iface
@@ -124,5 +118,11 @@ if __name__ == "__main__":
         server_port=7860,       
         share=False,           
         debug=True,             # 에러 확인을 위해 디버그 모드 켬
-        show_error=True         
+        show_error=True,
+        theme=gr.themes.Soft(),
+        css="""
+        .gradio-container {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        """        
     )
